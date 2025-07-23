@@ -19,14 +19,14 @@ We used the **Reuters Corpus** from the NLTK library. It contains thousands of n
 
 ## Folder Structure
 
-- `NLP_Workshop_Probabilistic_Language_Models_final.ipynb`: Main notebook containing all code and explanations
+- `NLP_Workshop_Probabilistic_Language_Models.ipynb`: Main notebook containing all code and explanations
 - `README.md`: This file
 
 ## Team Members
 
-- [Your Name 1]
-- [Your Name 2]
-- [Your Name 3]
+1. Fasalu Rahman Kottaparambu 8991782
+2. Christo Pananjickal Baby 8989796
+3. Srinu Babu Rai 8994032
 
 ## Dataset Link and License
 
@@ -37,7 +37,8 @@ We used the **Reuters Corpus** from the NLTK library. It contains thousands of n
 
 1. Clone the repository
 2. Open the notebook using Jupyter or VS Code
-3. Run each cell in order to see the full pipeline in action
+3. Install requirements.txt
+4. Run each cell in order to see the full pipeline in action
 
 ## Talking Points
 
