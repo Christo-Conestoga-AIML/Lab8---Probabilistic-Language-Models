@@ -30,8 +30,8 @@ We used the **Reuters Corpus** from the NLTK library. It contains thousands of n
 
 ## Dataset Link and License
 
-- Dataset: [Reuters Corpus from NLTK](https://www.nltk.org/nltk_data/)
-- License: Provided for academic/research use via the NLTK package
+- Dataset: [UET_Administrative_Chatbot](https://www.kaggle.com/datasets/ashirmaqbool1611/uet-administrative-chatbot)
+- License: Unknown or not present on kaggle
 
 ## How to Run
 
